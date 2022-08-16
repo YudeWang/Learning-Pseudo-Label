@@ -2,6 +2,7 @@
 
 The implementation of [Learning pseudo labels for semi-and-weakly supervised semantic segmentation](https://www.sciencedirect.com/science/article/pii/S003132032200406X). 
 
+You can also access the code from [gitee](https://gitee.com/hibercraft/learning-pseudo-label).
 
 
 ## Abstract
